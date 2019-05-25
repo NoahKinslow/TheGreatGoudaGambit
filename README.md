@@ -5,6 +5,6 @@ The Great Gouda Gambit is a capstone project made by 5 computer science majors a
 The project and its team earned 3rd place in the software showcase competition against 6 other teams.
 
 Screenshots:
-![alt text](../GGGmain.png)
-![alt text](../GGGlobby.png)
-![alt text](../GGGgame.png)
+![alt text](/GGGmain.png)
+![alt text](/GGGlobby.png)
+![alt text](/GGGgame.png)
