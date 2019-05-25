@@ -6,5 +6,5 @@ The project and its team earned 3rd place in the software showcase competition a
 
 Screenshots:
 ![alt text](/GGGmain.png)
-![alt text](/GGGlobby.png)
-![alt text](/GGGgame.png)
+![alt text](/GGGlobby.PNG)
+![alt text](/GGGgame.PNG)
